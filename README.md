@@ -2,4 +2,4 @@
 
 ---
 
-#### I'm a Software Engineer at Berrybytes, based in Lalitpur, Kathmandu
+#### I'm a Software Engineer at Berrybytes, based in Lalitpur, Kathmandu.
