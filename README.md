@@ -2,6 +2,6 @@
 - 👀 I’m a Software Engineer | Kubernetes Engineer | DevOps Engineer.
 - 🌱 I’m currently working as a Software Engineer at Cedargate Technologies.
 - 📫 tamangsugam09@gmail.com
-- https://www.babulal.com.np
+- babulal.com.np
 - https://www.linkedin.com/in/babulal-tamang-b6507121b/
 ---
